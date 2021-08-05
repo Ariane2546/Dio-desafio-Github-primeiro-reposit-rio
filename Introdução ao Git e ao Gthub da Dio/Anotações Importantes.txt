@@ -1,0 +1,3 @@
+link para download do Git: https://git-scm.com/downloads
+Fiz o download do Typora Markdown para editar as fontes achei bem legal neste link: https://typora.io/
+Pois ao invés de usar o bloco de notas eu uso o Typora.
