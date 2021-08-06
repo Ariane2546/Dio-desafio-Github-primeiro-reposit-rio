@@ -6,7 +6,7 @@ Repositório criado para o Desafio de Projeto
 
 [Typora Markdown para edição das fontes](https://typora.io/)
 
-Anotações Importantes do curso!
+## Anotações Importantes do curso!
 
 git add - serve para adicionar a pasta para o repositório local,e  com o * adiciona todas as pastas.
 
